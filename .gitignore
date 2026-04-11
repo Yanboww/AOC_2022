@@ -1,0 +1,5 @@
+/lib
+*.iml
+.*
+*.txt
+!.gitignore
