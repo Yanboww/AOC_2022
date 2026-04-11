@@ -1,6 +1,5 @@
 /out
 *.iml
 .*
-*.txt
 !.gitignore
 *.out
